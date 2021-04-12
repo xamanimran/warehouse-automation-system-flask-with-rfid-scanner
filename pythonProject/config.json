@@ -1,0 +1,11 @@
+{
+  "parameters":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/signup_data",
+    "production_uri": "mysql://root:@localhost/signup_data",
+    "sign_front": "Sign up",
+    "set_mail": "mukarram@gmail.com",
+    "set_pass": "123456"
+  }
+}

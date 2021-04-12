@@ -1,0 +1,25 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.form-container{
+   
+    padding: 60px 20px;
+    margin-top: 20vh;
+    -webkit-box-shadow: 1px 4px 20px 11px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 4px 20px 11px rgba(0,0,0,0.75);
+box-shadow: 1px 4px 20px 11px rgba(0,0,0,0.75);
+}
+*{
+    color: rgb(243, 233, 233);
+}
+body{
+    
+    background-image: url("warehouse.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+
+}
